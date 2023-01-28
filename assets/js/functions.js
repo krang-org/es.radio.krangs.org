@@ -24,7 +24,7 @@ Amplitude.init({
   "songs": [
     {
       "name": "Perea S L ",
-      "url": "./commercials/es-ES/health-wellness-and-fitness/perea-s-l-/16736034915330/commercial.mp3",
+      "url": "./commercials/es-ES/health-wellness-and-fitness/perea-s-l/16736034915330/commercial.mp3",
       "artist": "Health Wellness And Fitness",
       "cover_art_url": "assets/img/krang/krang-radio-069.jpg"
     },
@@ -54,7 +54,7 @@ Amplitude.init({
     },
     {
       "name": "Sosa S L ",
-      "url": "./commercials/es-ES/machinery/sosa-s-l-/16736027491690/commercial.mp3",
+      "url": "./commercials/es-ES/machinery/sosa-s-l/16736027491690/commercial.mp3",
       "artist": "Machinery",
       "cover_art_url": "assets/img/krang/krang-radio-069.jpg"
     },
@@ -72,7 +72,7 @@ Amplitude.init({
     },
     {
       "name": "Hurtado S L ",
-      "url": "./commercials/es-ES/management-consulting/hurtado-s-l-/16736027680820/commercial.mp3",
+      "url": "./commercials/es-ES/management-consulting/hurtado-s-l/16736027680820/commercial.mp3",
       "artist": "Management Consulting",
       "cover_art_url": "assets/img/krang/krang-radio-015.jpg"
     },
@@ -102,7 +102,7 @@ Amplitude.init({
     },
     {
       "name": "Barreto Narv Ez S L ",
-      "url": "./commercials/es-ES/railroad-manufacture/barreto-narv-ez-s-l-/16736033228790/commercial.mp3",
+      "url": "./commercials/es-ES/railroad-manufacture/barreto-narv-ez-s-l/16736033228790/commercial.mp3",
       "artist": "Railroad Manufacture",
       "cover_art_url": "assets/img/krang/krang-radio-041.jpg"
     },
@@ -132,13 +132,13 @@ Amplitude.init({
     },
     {
       "name": "Anguiano S L ",
-      "url": "./commercials/es-ES/gambling-casinos/anguiano-s-l-/16736023736170/commercial.mp3",
+      "url": "./commercials/es-ES/gambling-casinos/anguiano-s-l/16736023736170/commercial.mp3",
       "artist": "Gambling Casinos",
       "cover_art_url": "assets/img/krang/krang-radio-024.jpg"
     },
     {
       "name": "Leal Aranda S L ",
-      "url": "./commercials/es-ES/security-and-investigations/leal-aranda-s-l-/16736032759120/commercial.mp3",
+      "url": "./commercials/es-ES/security-and-investigations/leal-aranda-s-l/16736032759120/commercial.mp3",
       "artist": "Security And Investigations",
       "cover_art_url": "assets/img/krang/krang-radio-007.jpg"
     },
@@ -186,19 +186,19 @@ Amplitude.init({
     },
     {
       "name": "Casta Eda S A ",
-      "url": "./commercials/es-ES/package-freight-delivery/casta-eda-s-a-/16736027166740/commercial.mp3",
+      "url": "./commercials/es-ES/package-freight-delivery/casta-eda-s-a/16736027166740/commercial.mp3",
       "artist": "Package Freight Delivery",
       "cover_art_url": "assets/img/krang/krang-radio-064.jpg"
     },
     {
       "name": "Galarza Arellano S L ",
-      "url": "./commercials/es-ES/apparel-fashion/galarza-arellano-s-l-/16736023116960/commercial.mp3",
+      "url": "./commercials/es-ES/apparel-fashion/galarza-arellano-s-l/16736023116960/commercial.mp3",
       "artist": "Apparel Fashion",
       "cover_art_url": "assets/img/krang/krang-radio-031.jpg"
     },
     {
       "name": "Vergara S A ",
-      "url": "./commercials/es-ES/broadcast-media/vergara-s-a-/16736032368100/commercial.mp3",
+      "url": "./commercials/es-ES/broadcast-media/vergara-s-a/16736032368100/commercial.mp3",
       "artist": "Broadcast Media",
       "cover_art_url": "assets/img/krang/krang-radio-097.jpg"
     },
@@ -240,7 +240,7 @@ Amplitude.init({
     },
     {
       "name": "Madrigal S A ",
-      "url": "./commercials/es-ES/transportationg-trucking-railroad/madrigal-s-a-/16736029325090/commercial.mp3",
+      "url": "./commercials/es-ES/transportationg-trucking-railroad/madrigal-s-a/16736029325090/commercial.mp3",
       "artist": "Transportationg Trucking Railroad",
       "cover_art_url": "assets/img/krang/krang-radio-098.jpg"
     },
@@ -282,7 +282,7 @@ Amplitude.init({
     },
     {
       "name": "Cedillo Ulibarri S L ",
-      "url": "./commercials/es-ES/computer-networking/cedillo-ulibarri-s-l-/16736031141390/commercial.mp3",
+      "url": "./commercials/es-ES/computer-networking/cedillo-ulibarri-s-l/16736031141390/commercial.mp3",
       "artist": "Computer Networking",
       "cover_art_url": "assets/img/krang/krang-radio-025.jpg"
     },
@@ -294,13 +294,13 @@ Amplitude.init({
     },
     {
       "name": "Vald S S L ",
-      "url": "./commercials/es-ES/museums-and-institutions/vald-s-s-l-/16736029492680/commercial.mp3",
+      "url": "./commercials/es-ES/museums-and-institutions/vald-s-s-l/16736029492680/commercial.mp3",
       "artist": "Museums And Institutions",
       "cover_art_url": "assets/img/krang/krang-radio-086.jpg"
     },
     {
       "name": "Jurado S A ",
-      "url": "./commercials/es-ES/architecture-planning/jurado-s-a-/16736031087360/commercial.mp3",
+      "url": "./commercials/es-ES/architecture-planning/jurado-s-a/16736031087360/commercial.mp3",
       "artist": "Architecture Planning",
       "cover_art_url": "assets/img/krang/krang-radio-061.jpg"
     },
@@ -342,7 +342,7 @@ Amplitude.init({
     },
     {
       "name": "C Rdova Segura S A ",
-      "url": "./commercials/es-ES/legislative-office/c-rdova-segura-s-a-/16736032480510/commercial.mp3",
+      "url": "./commercials/es-ES/legislative-office/c-rdova-segura-s-a/16736032480510/commercial.mp3",
       "artist": "Legislative Office",
       "cover_art_url": "assets/img/krang/krang-radio-098.jpg"
     },
@@ -402,7 +402,7 @@ Amplitude.init({
     },
     {
       "name": "Mej A S A ",
-      "url": "./commercials/es-ES/defense-space/mej-a-s-a-/16736024029250/commercial.mp3",
+      "url": "./commercials/es-ES/defense-space/mej-a-s-a/16736024029250/commercial.mp3",
       "artist": "Defense Space",
       "cover_art_url": "assets/img/krang/krang-radio-074.jpg"
     },
@@ -426,7 +426,7 @@ Amplitude.init({
     },
     {
       "name": "V Squez S A ",
-      "url": "./commercials/es-ES/textiles/v-squez-s-a-/16736024694160/commercial.mp3",
+      "url": "./commercials/es-ES/textiles/v-squez-s-a/16736024694160/commercial.mp3",
       "artist": "Textiles",
       "cover_art_url": "assets/img/krang/krang-radio-039.jpg"
     },
@@ -462,7 +462,7 @@ Amplitude.init({
     },
     {
       "name": "Mireles S L ",
-      "url": "./commercials/es-ES/mechanical-or-industrial-engineering/mireles-s-l-/16736032420640/commercial.mp3",
+      "url": "./commercials/es-ES/mechanical-or-industrial-engineering/mireles-s-l/16736032420640/commercial.mp3",
       "artist": "Mechanical Or Industrial Engineering",
       "cover_art_url": "assets/img/krang/krang-radio-040.jpg"
     },
@@ -522,13 +522,13 @@ Amplitude.init({
     },
     {
       "name": "Le N S L ",
-      "url": "./commercials/es-ES/professional-training-coaching/le-n-s-l-/16736021937720/commercial.mp3",
+      "url": "./commercials/es-ES/professional-training-coaching/le-n-s-l/16736021937720/commercial.mp3",
       "artist": "Professional Training Coaching",
       "cover_art_url": "assets/img/krang/krang-radio-075.jpg"
     },
     {
       "name": "Romo S L ",
-      "url": "./commercials/es-ES/renewables-environment/romo-s-l-/16736023442800/commercial.mp3",
+      "url": "./commercials/es-ES/renewables-environment/romo-s-l/16736023442800/commercial.mp3",
       "artist": "Renewables Environment",
       "cover_art_url": "assets/img/krang/krang-radio-016.jpg"
     },
@@ -618,7 +618,7 @@ Amplitude.init({
     },
     {
       "name": " Guilar Y Arreola",
-      "url": "./commercials/es-ES/environmental-services/-guilar-y-arreola/16736030647400/commercial.mp3",
+      "url": "./commercials/es-ES/environmental-services/guilar-y-arreola/16736030647400/commercial.mp3",
       "artist": "Environmental Services",
       "cover_art_url": "assets/img/krang/krang-radio-099.jpg"
     },
@@ -642,13 +642,13 @@ Amplitude.init({
     },
     {
       "name": "Quiroz S A ",
-      "url": "./commercials/es-ES/biotechnology/quiroz-s-a-/16736022959920/commercial.mp3",
+      "url": "./commercials/es-ES/biotechnology/quiroz-s-a/16736022959920/commercial.mp3",
       "artist": "Biotechnology",
       "cover_art_url": "assets/img/krang/krang-radio-013.jpg"
     },
     {
       "name": "Espino Granado S L ",
-      "url": "./commercials/es-ES/banking/espino-granado-s-l-/16736023328450/commercial.mp3",
+      "url": "./commercials/es-ES/banking/espino-granado-s-l/16736023328450/commercial.mp3",
       "artist": "Banking",
       "cover_art_url": "assets/img/krang/krang-radio-028.jpg"
     },
@@ -696,7 +696,7 @@ Amplitude.init({
     },
     {
       "name": "Carbajal Nieves S A ",
-      "url": "./commercials/es-ES/banking/carbajal-nieves-s-a-/16736026498180/commercial.mp3",
+      "url": "./commercials/es-ES/banking/carbajal-nieves-s-a/16736026498180/commercial.mp3",
       "artist": "Banking",
       "cover_art_url": "assets/img/krang/krang-radio-023.jpg"
     },
@@ -726,7 +726,7 @@ Amplitude.init({
     },
     {
       "name": "Feliciano S L ",
-      "url": "./commercials/es-ES/media-production/feliciano-s-l-/16736032015520/commercial.mp3",
+      "url": "./commercials/es-ES/media-production/feliciano-s-l/16736032015520/commercial.mp3",
       "artist": "Media Production",
       "cover_art_url": "assets/img/krang/krang-radio-026.jpg"
     },
@@ -738,7 +738,7 @@ Amplitude.init({
     },
     {
       "name": "Almanza Peres S L ",
-      "url": "./commercials/es-ES/shipbuilding/almanza-peres-s-l-/16736028156700/commercial.mp3",
+      "url": "./commercials/es-ES/shipbuilding/almanza-peres-s-l/16736028156700/commercial.mp3",
       "artist": "Shipbuilding",
       "cover_art_url": "assets/img/krang/krang-radio-059.jpg"
     },
@@ -750,7 +750,7 @@ Amplitude.init({
     },
     {
       "name": "G Mez Valdivia S A ",
-      "url": "./commercials/es-ES/transportationg-trucking-railroad/g-mez-valdivia-s-a-/16736032535360/commercial.mp3",
+      "url": "./commercials/es-ES/transportationg-trucking-railroad/g-mez-valdivia-s-a/16736032535360/commercial.mp3",
       "artist": "Transportationg Trucking Railroad",
       "cover_art_url": "assets/img/krang/krang-radio-058.jpg"
     },
@@ -774,7 +774,7 @@ Amplitude.init({
     },
     {
       "name": "Carvajal Miranda S A ",
-      "url": "./commercials/es-ES/food-beverages/carvajal-miranda-s-a-/16736024341390/commercial.mp3",
+      "url": "./commercials/es-ES/food-beverages/carvajal-miranda-s-a/16736024341390/commercial.mp3",
       "artist": "Food Beverages",
       "cover_art_url": "assets/img/krang/krang-radio-062.jpg"
     },
@@ -810,13 +810,13 @@ Amplitude.init({
     },
     {
       "name": "Mondrag N S L ",
-      "url": "./commercials/es-ES/civic-social-organization/mondrag-n-s-l-/16736032665580/commercial.mp3",
+      "url": "./commercials/es-ES/civic-social-organization/mondrag-n-s-l/16736032665580/commercial.mp3",
       "artist": "Civic Social Organization",
       "cover_art_url": "assets/img/krang/krang-radio-056.jpg"
     },
     {
       "name": "Blanco S L ",
-      "url": "./commercials/es-ES/online-media/blanco-s-l-/16736035192690/commercial.mp3",
+      "url": "./commercials/es-ES/online-media/blanco-s-l/16736035192690/commercial.mp3",
       "artist": "Online Media",
       "cover_art_url": "assets/img/krang/krang-radio-084.jpg"
     },
@@ -828,7 +828,7 @@ Amplitude.init({
     },
     {
       "name": "Valadez S L ",
-      "url": "./commercials/es-ES/libraries/valadez-s-l-/16736033851680/commercial.mp3",
+      "url": "./commercials/es-ES/libraries/valadez-s-l/16736033851680/commercial.mp3",
       "artist": "Libraries",
       "cover_art_url": "assets/img/krang/krang-radio-022.jpg"
     },
@@ -840,7 +840,7 @@ Amplitude.init({
     },
     {
       "name": "Muro Soliz S A ",
-      "url": "./commercials/es-ES/arts-and-crafts/muro-soliz-s-a-/16736025828490/commercial.mp3",
+      "url": "./commercials/es-ES/arts-and-crafts/muro-soliz-s-a/16736025828490/commercial.mp3",
       "artist": "Arts And Crafts",
       "cover_art_url": "assets/img/krang/krang-radio-032.jpg"
     },
@@ -858,7 +858,7 @@ Amplitude.init({
     },
     {
       "name": "Saiz Almonte S L ",
-      "url": "./commercials/es-ES/accounting/saiz-almonte-s-l-/16736024258230/commercial.mp3",
+      "url": "./commercials/es-ES/accounting/saiz-almonte-s-l/16736024258230/commercial.mp3",
       "artist": "Accounting",
       "cover_art_url": "assets/img/krang/krang-radio-074.jpg"
     },
@@ -900,7 +900,7 @@ Amplitude.init({
     },
     {
       "name": "Palomo S L ",
-      "url": "./commercials/es-ES/luxury-goods-jewelry/palomo-s-l-/16736026261190/commercial.mp3",
+      "url": "./commercials/es-ES/luxury-goods-jewelry/palomo-s-l/16736026261190/commercial.mp3",
       "artist": "Luxury Goods Jewelry",
       "cover_art_url": "assets/img/krang/krang-radio-095.jpg"
     },
@@ -924,13 +924,13 @@ Amplitude.init({
     },
     {
       "name": "Casta Eda S A ",
-      "url": "./commercials/es-ES/performing-arts/casta-eda-s-a-/16736033788720/commercial.mp3",
+      "url": "./commercials/es-ES/performing-arts/casta-eda-s-a/16736033788720/commercial.mp3",
       "artist": "Performing Arts",
       "cover_art_url": "assets/img/krang/krang-radio-090.jpg"
     },
     {
       "name": "Torres S L ",
-      "url": "./commercials/es-ES/machinery/torres-s-l-/16736026030610/commercial.mp3",
+      "url": "./commercials/es-ES/machinery/torres-s-l/16736026030610/commercial.mp3",
       "artist": "Machinery",
       "cover_art_url": "assets/img/krang/krang-radio-031.jpg"
     },
@@ -942,7 +942,7 @@ Amplitude.init({
     },
     {
       "name": "Henr Quez Huerta S L ",
-      "url": "./commercials/es-ES/supermarkets/henr-quez-huerta-s-l-/16736021876180/commercial.mp3",
+      "url": "./commercials/es-ES/supermarkets/henr-quez-huerta-s-l/16736021876180/commercial.mp3",
       "artist": "Supermarkets",
       "cover_art_url": "assets/img/krang/krang-radio-008.jpg"
     },
@@ -960,7 +960,7 @@ Amplitude.init({
     },
     {
       "name": "Cort S S L ",
-      "url": "./commercials/es-ES/glass-ceramics-concrete/cort-s-s-l-/16736024810940/commercial.mp3",
+      "url": "./commercials/es-ES/glass-ceramics-concrete/cort-s-s-l/16736024810940/commercial.mp3",
       "artist": "Glass Ceramics Concrete",
       "cover_art_url": "assets/img/krang/krang-radio-017.jpg"
     },
@@ -1020,13 +1020,13 @@ Amplitude.init({
     },
     {
       "name": "Padilla Leal S A ",
-      "url": "./commercials/es-ES/animation/padilla-leal-s-a-/16736034123250/commercial.mp3",
+      "url": "./commercials/es-ES/animation/padilla-leal-s-a/16736034123250/commercial.mp3",
       "artist": "Animation",
       "cover_art_url": "assets/img/krang/krang-radio-069.jpg"
     },
     {
       "name": "Berr Os Armas S L ",
-      "url": "./commercials/es-ES/government-relations/berr-os-armas-s-l-/16736031363780/commercial.mp3",
+      "url": "./commercials/es-ES/government-relations/berr-os-armas-s-l/16736031363780/commercial.mp3",
       "artist": "Government Relations",
       "cover_art_url": "assets/img/krang/krang-radio-061.jpg"
     },
@@ -1080,7 +1080,7 @@ Amplitude.init({
     },
     {
       "name": "Ramos S A ",
-      "url": "./commercials/es-ES/primary-secondary-education/ramos-s-a-/16736022745700/commercial.mp3",
+      "url": "./commercials/es-ES/primary-secondary-education/ramos-s-a/16736022745700/commercial.mp3",
       "artist": "Primary Secondary Education",
       "cover_art_url": "assets/img/krang/krang-radio-063.jpg"
     },
@@ -1092,9 +1092,39 @@ Amplitude.init({
     },
     {
       "name": "Vald S Sarabia S A ",
-      "url": "./commercials/es-ES/capital-markets/vald-s-sarabia-s-a-/16736029070710/commercial.mp3",
+      "url": "./commercials/es-ES/capital-markets/vald-s-sarabia-s-a/16736029070710/commercial.mp3",
       "artist": "Capital Markets",
       "cover_art_url": "assets/img/krang/krang-radio-055.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
     }
   ]
 });
